@@ -14,3 +14,7 @@ A place to share my findings and lab experiences in the field of aerial robotics
 ---------
 ## Useful Links
 1. Use [this video](https://youtu.be/ck6wtrkdjzs) as a guide to create a Ethernet Connection between the host computer (with Motive installed) to connect it to a Linux machine.
+2. To setup Motive motion capture system you can refer to [this video](https://www.youtube.com/watch?v=aK1cpr6ShPE).
+3. The cameras we use in the lab are [Flex 13](https://optitrack.com/cameras/flex-13/).
+
+
